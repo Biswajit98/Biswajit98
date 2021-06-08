@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Biswajit Mirdda
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning machine learning and neural networks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Biswajit98/Biswajit98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In this project I have tried to build a machine learning model which can predict a handwritten digit (0-9).
+To build the model I have used some python libraries like tensorflow, keras, numpy, matplotlib.
+For now, I have used MNIST dataset but later on I will create my own dataset and will use it.
+In the next part I will create a funtion which will capture the image and will make a GUI to predict the the digit. 
